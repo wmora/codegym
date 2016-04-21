@@ -27,9 +27,9 @@ package com.wmora.codegym.iterations;
  * expected worst-case time complexity is O(log(N));
  * expected worst-case space complexity is O(1).
  */
-public class BinaryGap {
+class BinaryGap {
 
-    public int solution(int n) {
+    int solution(int n) {
         String binaryNumber = Integer.toString(n, 2);
 
         int longestBinaryGap = 0;

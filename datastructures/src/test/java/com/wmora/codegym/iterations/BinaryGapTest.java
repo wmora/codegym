@@ -1,6 +1,5 @@
-package com.wmora.codegym.datastructures;
+package com.wmora.codegym.iterations;
 
-import com.wmora.codegym.iterations.BinaryGap;
 import org.junit.Before;
 import org.junit.Test;
 
