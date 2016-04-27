@@ -1,4 +1,4 @@
-package com.wmora.codegym.datastructures;
+package com.wmora.codegym.datastructures.arraysandstrings;
 
 /**
  * Implement an algorithm to determine if a string has all unique characters.

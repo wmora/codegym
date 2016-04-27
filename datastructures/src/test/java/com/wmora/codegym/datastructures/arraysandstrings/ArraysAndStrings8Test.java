@@ -1,4 +1,4 @@
-package com.wmora.codegym.datastructures;
+package com.wmora.codegym.datastructures.arraysandstrings;
 
 import org.junit.Test;
 

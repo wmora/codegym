@@ -1,8 +1,8 @@
-package com.wmora.codegym.datastructures;
+package com.wmora.codegym.datastructures.arraysandstrings;
 
 import org.junit.Test;
 
-import static com.wmora.codegym.datastructures.ArraysAndStrings4.areAnagrams;
+import static com.wmora.codegym.datastructures.arraysandstrings.ArraysAndStrings4.areAnagrams;
 import static junit.framework.TestCase.assertFalse;
 import static org.junit.Assert.assertTrue;
 

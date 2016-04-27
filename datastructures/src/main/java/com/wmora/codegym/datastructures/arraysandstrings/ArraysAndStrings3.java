@@ -1,4 +1,4 @@
-package com.wmora.codegym.datastructures;
+package com.wmora.codegym.datastructures.arraysandstrings;
 
 /**
  * Remove the duplicate characters in a string without using any additional buffer

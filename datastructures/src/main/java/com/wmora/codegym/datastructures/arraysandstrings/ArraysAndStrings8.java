@@ -1,4 +1,4 @@
-package com.wmora.codegym.datastructures;
+package com.wmora.codegym.datastructures.arraysandstrings;
 
 /**
  * Given two strings s1 and s2, write code to check if s2 is a rotation of s1 using only one call to contains()

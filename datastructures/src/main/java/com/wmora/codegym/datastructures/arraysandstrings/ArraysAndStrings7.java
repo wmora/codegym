@@ -1,4 +1,4 @@
-package com.wmora.codegym.datastructures;
+package com.wmora.codegym.datastructures.arraysandstrings;
 
 /**
  * Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column is set to 0

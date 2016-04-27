@@ -1,5 +1,6 @@
-package com.wmora.codegym.datastructures;
+package com.wmora.codegym.datastructures.arraysandstrings;
 
+import com.wmora.codegym.datastructures.arraysandstrings.ArraysAndStrings1;
 import org.junit.Test;
 
 import static org.junit.Assert.assertFalse;
