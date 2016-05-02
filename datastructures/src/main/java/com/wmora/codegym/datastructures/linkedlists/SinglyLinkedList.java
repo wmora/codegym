@@ -65,4 +65,26 @@ public class SinglyLinkedList {
         }
         return builder.toString();
     }
+
+    Node getNthToLast(int nth) {
+        return get(size() - nth);
+    }
+
+    Node get(int index) {
+        Node n = head;
+        for (int i = 0; i < index; i++) {
+            n = n.getNext();
+        }
+        return n;
+    }
+
+    int size() {
+        int size = 0;
+        Node n = head;
+        while (n != null) {
+            n = n.getNext();
+            size++;
+        }
+        return size;
+    }
 }
